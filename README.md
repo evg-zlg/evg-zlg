@@ -2,7 +2,7 @@
 <h1> Hi, i'm Evgeny </h1>
 <h3> frontend developer </h2>
 
-<a href="https://t.me/evg_zlg">
+<a href="https://t.me/evg_zlg" target="_blank">
 <img src="https://img.shields.io/badge/-telegram-lightgray?style=flat-square&logo=telegram" alt="Telegram"/>
 </a>
   
@@ -13,9 +13,21 @@
 <a href="https://github.com/evg-zlg">
 <img src="https://img.shields.io/badge/-github-lightgray?style=flat-square&logo=github" alt="Github"/>
 </a>
+	
+<a href="https://www.codewars.com/users/rsschool_04a4b325e16cdeb7">
+<img src="https://www.codewars.com/users/rsschool_04a4b325e16cdeb7/badges/micro" alt="Codewars"/>
+</a>
+	
 </div>
 
 ---
+
+
+
+
+
+---
+
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html5" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="css3" width="40" height="40"/>&nbsp;
