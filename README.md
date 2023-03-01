@@ -10,10 +10,6 @@
 <img src="https://img.shields.io/badge/-mail-lightgray?style=flat-square&logo=gmail" alt="Mail"/>
 </a>
 
-<a href="https://github.com/evg-zlg">
-<img src="https://img.shields.io/badge/-github-lightgray?style=flat-square&logo=github" alt="Github"/>
-</a>
-	
 <a href="https://www.codewars.com/users/rsschool_04a4b325e16cdeb7">
 <img src="https://www.codewars.com/users/rsschool_04a4b325e16cdeb7/badges/micro" alt="Codewars"/>
 </a>
